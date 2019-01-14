@@ -8,11 +8,11 @@
 
   "theme": {
     "images": {
-      "headerURL": "weta.png"
+      "headerURL": "weta.jpg"
     },
     
     "colors": {
-       "accentcolor": "#adb09f",
+       "accentcolor": "#efa64c",
        "textcolor": "#000"
     }
   }
